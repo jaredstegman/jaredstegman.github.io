@@ -1,0 +1,16 @@
+#title{
+    font-family: fantasy;
+    text-align: left;
+    font-size: 50px;
+    color: orange;
+}
+#go{
+  width: 75px;
+  height: 75px;
+  border-radius: 1000px;
+  border-color: orange;
+  background-color: gray;
+  font-size: 20px;
+  color: orange;
+  font-family: fantasy;
+}
